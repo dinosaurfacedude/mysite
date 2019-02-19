@@ -1,0 +1,27 @@
+ 
+body{
+ background:black;
+ font-family: arial;
+}
+
+.bg-image{
+ background-image: url(binary.jpeg);   
+
+ filter: blur(2px);
+ -webkit-filter: blur(2px);
+ 
+ height: 10%;
+ 
+ background-position: bottom;
+ //background-repeat: no-repeat;
+ background-size: cover;
+ 
+}
+
+
+
+h1, ul, p, footer{
+ color:green;      
+}
+
+

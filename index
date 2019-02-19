@@ -1,0 +1,43 @@
+<html>
+
+
+<head><title>Welcome to danielrjones.com!</title></head>
+<link href="main.css" rel = "stylesheet"/>
+<body>
+
+<div class="bg-image"></div>
+
+
+
+<center>
+<h1>Welcome to danielrjones.com!</h1>
+
+
+<p>
+<strong>
+home page
+</strong>
+</p>
+</center>
+<ul>
+    <li>home</li>
+    <li><a href="about.html">about</a></li>
+
+</ul>
+
+<p>
+My name is Daniel Jones, and I am an aspiring security admin.
+For the time being, I am learning as much about computers as humanly possible.
+Computers are a broad subject. Servers, webpages, programming, glitch fixing, etc.
+It is a little daunting, but I am enjoying my time learning. I am a senior at 
+LeTourneau University, and I hope to be graduating in May 2020.
+</p>
+
+<p>
+This website is my portfolio website. I mean to share my side projects, my interests, and what I am up to for people to see.
+</p>
+
+</body>
+
+
+</html>
